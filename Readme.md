@@ -1,3 +1,3 @@
 #Learning backend
 
-This project is developed with guidance of Hitesh Chaudhary's "Chai aur backend" series.
+This project is developed with guidance of Hitesh Choudhary's "Chai aur backend" series.
